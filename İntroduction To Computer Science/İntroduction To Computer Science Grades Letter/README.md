@@ -1,6 +1,6 @@
 ## 🖥️ Introduction to Computer Science Grades
 
-These are my personal grades for the **Introduction to Computer Science** course, including midterms, assignments, projects, final exam, and make-up (Büt) exam.
+These are my personal grades for the **Introduction to Computer Science** course, including midterms, assignments, projects, final exam, and make-up exam.
 
 | Assessment          | Score |
 |--------------------|-------|

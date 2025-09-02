@@ -1,14 +1,15 @@
-📘 Additional Study Materials
+# 📂 Exam Supplementary Questions
 
-To aid in exam preparation, I’ve included the following practice materials:
-	•	General Questions 1
-View Document
-A compilation of general questions covering key topics.
-	•	General Questions 2
-View Document
-Additional practice questions to reinforce understanding.
-	•	Midterm 3
-View Document
-A set of midterm-level questions for focused revision.
+These materials are **additional practice questions** to help with exam preparation.
 
-These materials are intended to supplement your study sessions and provide a comprehensive review of the course content.
+---
+
+📂 **Documents:**
+
+- [General Questions 1 (Google Drive)](https://drive.google.com/file/d/1qWRDbL9uH7A5yFB9tKl4NQ4CE84MPqtR/view?usp=drive_link)  
+- [General Questions 2 (Google Drive)](https://drive.google.com/file/d/1XSYki1zX6F_i6RfQcLfgKce7PCibHgzd/view?usp=drive_link)  
+- [Midterm 3 Questions (Google Drive)](https://drive.google.com/file/d/1vaLKgzehuHkpFgslHPQMmduSEs2pJEEz/view?usp=drive_link)
+
+---
+
+✨ These documents are for **self-study and exam preparation purposes**.

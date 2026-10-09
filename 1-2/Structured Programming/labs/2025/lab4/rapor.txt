@@ -1,0 +1,3 @@
+Ankara -> TeslimEdildi: 2, Beklemede: 1
+Izmir -> TeslimEdildi: 1, Beklemede: 0
+Istanbul -> TeslimEdildi: 0, Beklemede: 1

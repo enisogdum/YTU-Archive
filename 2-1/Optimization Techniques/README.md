@@ -1,7 +1,6 @@
 # BLM2642 – Homework 1: Polynomial Regression
 
 **Topic:** Polynomial regression with the closed-form solution, the ln(y) transform, and gradient descent
-**Deadline:** 9 November 2026, 23:45 — online.yildiz.edu.tr
 **Language:** Python
 
 ---
@@ -30,12 +29,6 @@ There is no training data in [0.5, 1.5] (the interpolation gap).
 7. Train the chosen models with **gradient descent**. Plot the loss curve and compare the coefficients with the closed-form solution.
 8. Predict the 30 points in `tahmin_x.csv` with the best model and submit them as `studentNo_tahmin.csv` (columns `id, y`). Predictions are graded against the true values.
 
-### Deliverables
-
-- [x] Report (one PDF) — `report.pdf`
-- [ ] Commented source code
-- [ ] Prediction file — `23011056_tahmin.csv` with columns `id, y`
-- [x] 5–15 minute unlisted YouTube video showing your face, linked in the report: https://youtu.be/Ea-m9JRPJU4
 
 ---
 
@@ -96,10 +89,3 @@ Degrees 1–2 underfit. Error drops sharply at degree 3. Beyond degree 4 the gai
 
 ---
 
-## Things to Fix Before Submitting
-
-- **Degree mismatch:** Section 3 chooses **degree 4** for the y model, but sections 6–8 use **degree 3** for both models. Either use degree 4 for y in sections 6–7 or update the reasoning in section 3.
-- **No single degree chosen for ln(y):** Section 5 says "degree 2 or 3". Pick one and add an MSE table for ln(y) (train and test, on the y scale).
-- **Prediction file format:** The code saves `new_file.csv` with a single column. The assignment asks for `23011056_tahmin.csv` with columns `id, y`.
-- **Coefficients used for the final predictions:** Gradient descent did not converge, so using the closed-form ln(y) coefficients (or scaled features / longer GD) would likely score better.
-- **Cover page:** It names the course "Diferansiyel Denklemler" (Differential Equations), but the assignment is for BLM2642.
